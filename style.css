@@ -15,7 +15,7 @@ body{
 }
 
 .dino{
-    background-image: url(dino.png);
+    background-image: url(iDragon-Adventures/dino.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 233px;
@@ -28,7 +28,7 @@ body{
 .obstacle{
     width: 166px;
     height: 113px;
-    background-image: url(dragon.png);
+    background-image: url(iDragon-Adventures/dragon.png);
     background-size: cover;
     position: absolute;
     bottom: 0;
